@@ -11,7 +11,7 @@
 
 ## 🛠 That i worked
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,pawno,github,visualstudio,pycharm,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,pawno,github,visualstudio,pycharm,clion,androidstudio,vscode" />
 </p>
 
 ## 📊 My stat
