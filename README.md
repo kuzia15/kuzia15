@@ -15,13 +15,13 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,pawno,github,visualstudio,pycharm,clion,androidstudio,vscode" />
 </p>
 
-## 📊 My stat
+## 📊 My statistic
 <div align="center">
   
-  ![Основная статистика](https://github-readme-stats.vercel.app/api?username=kuzia15&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
+  ![qwerty](https://github-readme-stats.vercel.app/api?username=kuzia15&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
   
-  ![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzia15&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=html,css,scss)
+  ![top language](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzia15&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=html,css,scss)
   
-  ![Стрик коммитов](https://streak-stats.demolab.com?user=kuzia15&theme=dark&hide_border=true&background=0D1117)
+  ![commit streak](https://streak-stats.demolab.com?user=kuzia15&theme=dark&hide_border=true&background=0D1117)
   
 </div>
