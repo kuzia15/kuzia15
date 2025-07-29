@@ -13,25 +13,29 @@
     </a>
   </p>
 
-  ## I Work With
+  <h2>About Me</h2>
+  <p>
+    Developer. C++, Python, C#. Open to collaboration.
+  </p>
+
+  <h2>My Tech Stack</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,github,visualstudio,pycharm,clion,androidstudio,vscode" alt="Tech icons" />
   </p>
 
-  ## My Statistics
+  <h2>GitHub Stats</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=kuzia15&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   </p>
-
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzia15&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&hide=html,css,scss" alt="Top Languages" />
   </p>
-
   <p>
     <img src="https://streak-stats.demolab.com?user=kuzia15&theme=dark&hide_border=true&background=0D1117" alt="Commit Streak" />
   </p>
 
+  <h2>Visitors</h2>
   <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=kuzia15.kuzia15&style=for-the-badge" alt="Visitors"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=kuzia15.kuzia15&style=flat-square&color=6A5ACD&label=Unique+Visitors" alt="Visitors"/>
   </p>
 </div>
