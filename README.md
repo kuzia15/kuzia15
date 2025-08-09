@@ -15,7 +15,7 @@
 
   <h2>About Me</h2>
   <p>
-    Developer. C++, C Python. Open to collaboration.
+    C++, C, Python. Open to collaboration.
   </p>
 
   <h2>My Tech Stack</h2>
