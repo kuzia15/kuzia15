@@ -3,12 +3,11 @@
 
   <p>
     <a href="https://t.me/kuzia15">
-      <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 1"/>
+      <img src="https://img.shields.io/badge/-TG 1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 1"/>
     </a>
-    OR
     <p>
     <a href="https://t.me/github_log">
-      <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 2"/>
+      <img src="https://img.shields.io/badge/-TG 2-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 2"/>
     </a>
     <a href="https://vk.com/kuzia15">
       <img src="https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
