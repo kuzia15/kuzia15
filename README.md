@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hello, World!</h1>
 
+  <div align="center">
+<h1>[CLICK](https://kuzia15.github.io/)</h1>
   <p>
     <a href="https://t.me/kuzia15">
       <img src="https://img.shields.io/badge/-TG 1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram 1"/>
