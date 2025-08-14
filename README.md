@@ -16,7 +16,7 @@
 ---
 
 ### About Me  
-C++, C, Pawn, Java, Kotlin Python developer. Open to collaboration.
+C++, C, Pawn, Java, Kotlin, Python developer. Open to collaboration.
 
 ---
 
