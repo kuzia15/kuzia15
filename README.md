@@ -16,7 +16,9 @@
 ---
 
 ### About Me  
-C++, C, Pawn, Java, Kotlin, Python developer. Open to collaboration.
+- Beginner reverse engineer  
+- Software engineer
+- Open to collaboration and new projects
 
 ---
 
