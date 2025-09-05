@@ -8,8 +8,7 @@
 
 ### Find me on:
 
-[![Telegram 1](https://img.shields.io/badge/-TG%201-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kuzia15)  
-[![Telegram 2](https://img.shields.io/badge/-TG%202-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/github_log)  
+[![Telegram 1](https://img.shields.io/badge/-Telegram%201-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kuzia15)  
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kuzia15)  
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kuzia15)
 
