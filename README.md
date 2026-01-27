@@ -2,20 +2,13 @@
 
 # Hello, World!
 
-### [Visit my website](https://kuzia15.github.io/)
-
  ---
 
 ### Find me on:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kuzia15)  
-[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kuzia15)  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kuzia15)
+[![VK](https://img.shields.io/badge/-VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/kuzia15)
 [![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/kuzia15)
-
----
-
-### 🛠️ Tech Stack  
-<img src="https://skillicons.dev/icons?i=cpp,c,python,github,visualstudio,pycharm,clion,androidstudio,vscode" alt="Tech icons" />
 
 ---
 
@@ -31,5 +24,3 @@
 
 ### 👥 Visitors  
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kuzia15.kuzia15&style=flat-square&color=6A5ACD&label=Unique+Visitors)
-
-</div>
