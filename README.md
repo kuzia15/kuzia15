@@ -56,6 +56,10 @@ Currently developing and improving projects related to
 The easiest way to reach me is through  
 [**Telegram — @kuzia15**](https://t.me/kuzia15)
 
+Also, please subscribe to my channel <3
+
+[![Telegram](https://img.shields.io/badge/Join-Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+sWqtYHlCMhYzYTJi)
+
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kuzia15&style=flat-square&color=0077FF)
