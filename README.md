@@ -38,8 +38,9 @@ Currently developing and improving projects related to
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kuzia15&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub statistics">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzia15&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&hide=html,css,scss" alt="Most used languages">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=kuzia15&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub statistics">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kuzia15&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&hide=html,css,scss" alt="Most used languages">
 
 <br>
 
