@@ -59,7 +59,7 @@ The easiest way to reach me is through
 
 Also, please subscribe to my channel <3
 
-[![Telegram](https://img.shields.io/badge/Join-Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+8NgW7A35Yhc5MTI6)
+[![Telegram](https://img.shields.io/badge/Join-Telegram-Chat-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+ou4jTw2Cq8ZiZThi)
 
 <br>
 
